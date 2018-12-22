@@ -1,6 +1,7 @@
 # reactnative
 tugas2.weather
+Nama:saromah,nim:2015150020
 
-![qrcode](https://user-images.githubusercontent.com/38578128/50275165-56778600-0471-11e9-94d9-d8fac4975fab.png)
+![qrcodesaromah](https://user-images.githubusercontent.com/38578128/50370677-9c515d00-05dd-11e9-8aab-f7a92d42acdd.png)
 
 https://snack.expo.io/@saromah/weather
